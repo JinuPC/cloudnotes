@@ -10,4 +10,7 @@
     </modules>
     <packaging>pom</packaging>
     <name>ROOT</name>
+    <build>
+        <finalName>ROOT</finalName>
+    </build>
 </project>
